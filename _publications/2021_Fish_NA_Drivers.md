@@ -6,7 +6,7 @@ excerpt: 'This paper quantifies the relative importance of environmental, histor
 date: 2021-10-08
 venue: 'Global Ecology and Biogeography'
 paperurl: 'https://doi.org/10.1111/geb.13298'
-citation: 'Anas, M.U.M. and N. Mandrak. (2021). &quot;Drivers of native and non-native freshwater fish richness across North America: Disentangling the roles of environmental, historical and anthropogenic factors.&quot; <i>Global Ecology and Biogeography 1</i>. 39:1232-1244.'
+citation: 'Anas, M.U.M. and N. Mandrak. (2021). &quot;Drivers of native and non-native freshwater fish richness across North America: Disentangling the roles of environmental, historical and anthropogenic factors.&quot; <i>Global Ecology and Biogeography </i>. 39:1232-1244.'
 ---
 
 Aim: A better understanding of native and non-native species responses to environmental conditions, historical processes, and human pressures is crucial in the face of global environmental changes affecting biodiversity. Here, we evaluate the relative roles of environmental, historical and anthropogenic factors in influencing species richness of native and non-native freshwater fishes in watersheds across North America.
