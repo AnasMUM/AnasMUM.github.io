@@ -1,7 +1,7 @@
 ---
 title: "Drivers of native and non-native freshwater fish richness across North America: Disentangling the roles of environmental, historical and anthropogenic factors"
 collection: publications
-permalink: /publication/2021-Drivers_of_fw_fish_North America
+permalink: /publication/2021_Drivers_of_fw_fish_North_America
 excerpt: 'This paper quantifies the relative importance of environmental, historical and anthropogenic drivers in influencing native and non-native freshwater fish diversity in North America.'
 date: 2021-10-08
 venue: 'Global Ecology and Biogeography'
