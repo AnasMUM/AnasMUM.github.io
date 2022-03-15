@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anas Mohamed"
+title: "Understanding environmental variability in space and time"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
