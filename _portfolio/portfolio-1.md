@@ -1,5 +1,5 @@
 ---
-title: "Assessing watershed integrity across the North Saskatchewan River Basin"
+title: "Assessing the watershed integrity across the North Saskatchewan River Basin"
 excerpt: "This study is aimed to assess overall condition (i.e., integrity) of 231 watersheds across the North Saskatchewan River Basin using a paired geospatial modeling and field monitoring approach.<br/><img src='/images/IMG_20200905_152510~2-02_ed.JPG'>"
 collection: portfolio
 ---
