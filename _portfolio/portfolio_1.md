@@ -1,6 +1,6 @@
 ---
 title: "Assessing watershed integrity across the North Saskatchewan River Basin"
-excerpt: "This study is aimed to assess overall condition (i.e., integrity) of 231 watersheds across the North Saskatchewan River Basin using a paired geospatial modeling and field monitoring approach.<br/><img src='/images/NSRB_2.png'>"
+excerpt: "We are assessing the overall condition (i.e., integrity) of 231 watersheds across the North Saskatchewan River Basin using a paired geospatial modeling and field monitoring approach.<br/><img src='/images/NSRB_2.png'>"
 collection: portfolio
 ---
 Collaborators: Rolf Vinebrooke, Craig Emmerton, Mina Nasr, Faye Wyatt, Cristina Buendia, Stephanie Green, Maya Bhatia, Mark Poesch, Shelby Stenerson, Blake Stuparyk, Jillian Lightbown, Victoria Van Mierlo 
