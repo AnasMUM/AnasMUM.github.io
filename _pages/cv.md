@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc (Honours) in Aquaculture & Fisheries, Wayamba University of Sri Lanka, 2006
+* MSc in Biostatistics, University of Peradeniya, Sri Lanka, 2009
+* MSc in Biology (Specialization: Aquatic Ecology and Limnology), University of Regina, Canada, 2012
+* PhD in Biology (Specialization: Aquatic Ecology and Limnology), University of Regina, Canada, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2021 - to date: Postdoctoral Fellow
+  * Department of Biological Sciences, University of Alberta, Canada 
+  * Duties includ: Leading the investigation on developing a geospatial assessment model for watershed integrity of the North Saskatchewan River Basin in Canada;         Compiling geospatial and field monitoring data sets and performing GIS and statistical analyses; Mentoring graduate students on statistical analyses; Co-writing       manuscripts and technical reports based on the project.
+  * Supervisors: Drs. Rolf Vinebrooke and Craig Emmerton
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2021: Postdoctoral Fellow
+  * Department of Biological Sciences, University of Toronto, Canada 
+  * Duties included: Leading the investigations on i) environmental, historical and anthropogenic drivers of spatial/temporal variation in freshwater fish                biodiversity at regional, national and continental scales, ii) effects of urbanization gradients on freshwater fish invasions across North America (as a part of      Global Biological Invasion Consortium [GUBIC]), iii) identifying ichthyofaunal biogeographic regions in Canada and iv) developing an index of biotic integrity        based on freshwater fish biodiversity to identify Key Biodiversity Areas (KBA) in Canada; Compiling regional/national/continental-scale data sets and performed GIS    and statistical analyses; Writing peer-reviewed publications based on the project.
+
+  * Supervisor: Dr. Nicholas Mandrak
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research in limnology and aquatic ecology
+* Quantitative analyses 
+  * Statistical analysis
+  * Data management
+  * Computer programming
+  * R statistical software applications 
+* GIS applications in environmental sciences
 
 Publications
 ======
