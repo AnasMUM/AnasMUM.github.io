@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Assessing watershed integrity across the North Saskatchewan River Basin"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/NSRB.png'>"
 collection: portfolio
 ---
 
