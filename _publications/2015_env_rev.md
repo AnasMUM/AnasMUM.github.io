@@ -2,7 +2,7 @@
 title: "Carbon budgets of boreal lakes: Current state of knowledge, challenges and implications"
 collection: publications
 permalink: /publication/2015_env_rev
-excerpt: #'In this review, we synthesize the current state of research to provide a critical overview of (i) the role of boreal lakes as emitters versus sinks of carbon, (ii) their contribution to the regional carbon balance, (iii) knowledge gaps that may inhibit an accurate evaluation of the role of boreal lakes in a landscape context, and (iv) impacts of environmental perturbations on carbon dynamics in boreal lakes.'
+excerpt: 'In this review, we synthesize the current state of research to provide a critical overview of (i) the role of boreal lakes as emitters versus sinks of carbon, (ii) their contribution to the regional carbon balance, (iii) knowledge gaps that may inhibit an accurate evaluation of the role of boreal lakes in a landscape context, and (iv) impacts of environmental perturbations on carbon dynamics in boreal lakes.'
 date: 2015-10-01
 venue: 'Environmental Reviews'
 paperurl: 'https://doi.org/10.1139/er-2014-0074'
