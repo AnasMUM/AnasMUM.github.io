@@ -26,7 +26,7 @@ Work experience
 * April 2021 - Sep. 2021: Aquatic Science Biologist (Casual Hire)
   * Great Lakes Laboratory for Fisheries and Aquatic Sciences, Fisheries and Oceans Canada, Burlington ON, Canada 
   * Duties included : Leading the analysis on identifying freshwater biodiversity hotspots for conservation priorities in Southwestern Ontario; Writing a manuscript.
-  * Supervisors: Dr. Andrew Drake
+  * Supervisor: Dr. Andrew Drake
 
 * 2019 - 2021: Postdoctoral Fellow
   * Department of Biological Sciences, University of Toronto, Canada 
@@ -142,7 +142,7 @@ Teaching & Mentoring
   * Lectured ‘Data Analyses’ sections of understanding consumer course. 
   
 * 2008 - to date: Statistical Advisor 
-  * University of Alberta | University of Toronto | University of Regina | Wayamba University of Sri Lanka | University of Peradeniya, Sri Lanka
+  * University of Alberta, University of Toronto, University of Regina, Wayamba University of Sri Lanka, University of Peradeniya, Sri Lanka
   * Mentored and assisted dozens of students and peers on statistical analyses for Honors, Masters and other research projects related to various disciplines             including biology, agriculture and health studies.
   
   
@@ -154,7 +154,7 @@ Teaching & Mentoring
 Service and leadership
 ======
 * Journal Reviewer 									
-  Ecological Indicators (6), Science of the Total Environment (4), Aquatic Sciences (3), Journal of Great Lakes Research (1), Scientific Reports (1), Journal of Fish   Biology (1), Ecotoxicology (1), Inland Waters (1), Environmental Engineering and Management Journal (1), Journal of Oceanography and Limnology (3), Journal of         Mountain Science (1)
+  * Ecological Indicators (6), Science of the Total Environment (4), Aquatic Sciences (3), Journal of Great Lakes Research (1), Scientific Reports (1),                   Journal of Fish Biology (1), Ecotoxicology (1), Inland Waters (1), Environmental Engineering and Management Journal (1),                                               Journal of Oceanography and Limnology (3), Journal of Mountain Science (1)
   
 * Research Grant Reviewer 									
   * External reviewer for New Frontiers Research Funds - Exploration competition of Tri-agency Institutional Programs Secretariat of Canada (2020, 2021) 
